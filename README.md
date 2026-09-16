@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ezekiellavapiez/ezekiellavapiez/db2c49857d25221488bc90f94e34ecf8146cf89c/githubprofile.jpg)
+
 
 
 Skills: HTML • CSS • JavaScript • Java • Visual Basic • PHP • MySQL • Photoshop • Illustrator • XD • Figma • Canva • Lightroom • Premiere Pro • After Effects • Da Vinci Resolve • Blender
